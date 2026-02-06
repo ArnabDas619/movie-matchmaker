@@ -72,7 +72,7 @@ To deploy this project to GitHub (if not already initialized):
 2.  Create a repository on GitHub.
 3.  Link and Push:
     ```bash
-    git remote add origin https://github.com/YOUR_USERNAME/movie-matchmaker.git
+    git remote add origin https://github.com/ArnabDas619/movie-matchmaker.git
     git branch -M main
     git push -u origin main
     ```
